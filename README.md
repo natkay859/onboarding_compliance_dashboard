@@ -4,7 +4,7 @@ Power BI dashboard concept based on real workforce onboarding and compliance mon
 
 ## Dashboard Preview
 
-![Dashboard Preview](Compliance Dashboard.png)
+![Dashboard Preview](compliance-dashboard.png)
 
 ## Key Features
 
