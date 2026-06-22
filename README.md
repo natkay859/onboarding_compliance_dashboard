@@ -6,7 +6,7 @@ Power BI dashboard concept based on real workforce onboarding and compliance mon
 
 ![Dashboard Preview](compliance-dashboard.png)
 
-Overview
+**Overview**
 
 This Power BI dashboard concept is based on realistic workforce onboarding and compliance monitoring processes. It was designed to help HR, Learning & Development, and operational stakeholders track staff onboarding progress, mandatory training completion, overdue training, and department-level compliance performance.
 
@@ -14,8 +14,8 @@ The dashboard uses executive-style KPI reporting and a clean visual layout to pr
 
 This project uses fictional sample data created for portfolio demonstration purposes. No real employee, learner, workplace, charity, or organisational data is included.
 
-Business Problem
-
+**Business Problem
+**
 Workforce onboarding and mandatory training are often monitored through LMS exports, HR records, spreadsheets, and manual follow-up processes. This can make it difficult for teams to quickly understand:
 
 how many staff have completed required training
@@ -26,14 +26,14 @@ which areas need urgent follow-up
 
 Without a centralised dashboard, HR and L&D teams may spend unnecessary time manually checking training records and preparing status updates for managers.
 
-Solution
+**Solution**
 
 I developed an interactive Power BI dashboard to provide a centralised view of onboarding and compliance performance across departments.
 
 The dashboard enables users to monitor key workforce learning metrics, identify overdue training, compare compliance performance by department, and prioritise follow-up actions.
 
-Dashboard Metrics
-
+**Dashboard Metrics
+**
 The dashboard includes:
 
 Total staff: 161
@@ -76,7 +76,7 @@ Overdue training cases vary by department, with Finance, Operations, and Fundrai
 
 Average onboarding completion is 71%, compared with 50% compliance completion. This suggests that staff may be progressing through onboarding but not completing all required compliance modules on time.
 
-Recommendations
+**Recommendations**
 
 Based on the dashboard findings, recommended next steps would include:
 
@@ -86,8 +86,9 @@ Prioritise follow-up with departments showing the highest overdue training count
 Review onboarding workflows to identify where compliance modules are being delayed.
 Use Power Automate to trigger reminders based on overdue status and due dates.
 Monitor monthly trends to assess whether interventions improve completion rates.
-Project Purpose
 
+**Project Purpose
+**
 This project was created to demonstrate:
 
 HR and workforce analytics
@@ -113,8 +114,8 @@ Data Privacy Note
 
 This project uses fictional sample data created for portfolio purposes. No real employee names, learner records, workplace data, charity data, LMS exports, or organisational information are included.
 
-Future Improvements
-
+**Future Improvements
+**
 Future iterations could include:
 
 Connecting the dashboard to a SharePoint List or LMS export.
