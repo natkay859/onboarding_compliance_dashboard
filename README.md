@@ -13,7 +13,7 @@ The dashboard uses executive-style KPI reporting and a clean visual layout to pr
 This project uses fictional sample data created for portfolio demonstration purposes. No real employee, learner, workplace, charity, or organisational data is included.
 
 ## Dashboard Preview
-![Workforce Onboarding & Compliance Dashboard](images/dashboard-preview.png)
+![Workforce Onboarding & Compliance Dashboard](compliance-dashboard.png)
 
 
 ## Business Problem
